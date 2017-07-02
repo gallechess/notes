@@ -1,5 +1,5 @@
 # Top 10 Programming Languages to Learn in 2017
-*(This is a personal opinion)*
+*(personal opinion)*
 
 > From
 > <https://www.youtube.com/watch?v=yvO25E0ftLA>
