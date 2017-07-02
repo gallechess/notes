@@ -1,7 +1,7 @@
 # Web Development In 2017 - A Practical Guide
 
 > From
-> <https://www.youtube.com/watch?v=9hDKfBKuXjI> 
+> <https://www.youtube.com/watch?v=9hDKfBKuXjI>
 > <http://www.traversymedia.com/>
 
 ## HTML / CSS
